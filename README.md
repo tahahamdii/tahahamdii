@@ -1,5 +1,5 @@
 # 💫 About Me:
-Versatile Full-stack Developer with Expertise in Frontend Development, Backend Development, and UI Design
+Software Developer | Javascript Geek 
 
 
 ## 🌐 Socials:
