@@ -4,4 +4,4 @@ and i also write [blogs](https://medium.com/@hamdi.taha) feel free to check my l
 🔍 I’m currently looking for an end-of-study internship!  
 📧 hamdi.taha@esprit.tn
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/tahahamdii)  [![Medium GitHub stats](https://medium-readme-stats.vercel.app/api/post?name=hamdi.taha)]([https://github.com/seonghun-dev/medium-readme-stats](https://medium.com/@hamdi.taha))
+[![Leetcode Stats](https://leetcard.jacoblin.cool/tahahamdii)](https://leetcode.com/u/tahahamdii/)  [![Medium GitHub stats](https://medium-readme-stats.vercel.app/api/post?name=hamdi.taha)]([https://github.com/seonghun-dev/medium-readme-stats](https://medium.com/@hamdi.taha))
