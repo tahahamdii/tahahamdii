@@ -3,3 +3,5 @@ I’m Taha! i like building things, big and small. I’m all about solving probl
 and i also write [blogs](https://medium.com/@hamdi.taha) feel free to check my latest [research paper 📝](https://taha-bucket-v1.s3.amazonaws.com/SonocureArticle.pdf)
 🔍 I’m currently looking for an end-of-study internship!  
 📧 hamdi.taha@esprit.tn
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/tahahamdii?ext=contest)  
